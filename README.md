@@ -6,7 +6,6 @@ Computer Vision 모델 학습을 담당
 ### 사용 기술
 - Python
 - Ultralytics YOLO
-- OpenCV
 
 ### 목표
 YOLO 기반 객체 탐지를 활용하여
