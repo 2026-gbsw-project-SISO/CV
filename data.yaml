@@ -1,0 +1,11 @@
+path: /Users/jo-eunjin/Downloads/SISO/merged_dataset2
+
+train: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/train
+val: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/val
+test: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/test
+
+nc: 3
+names:
+  0: green_light
+  1: red_light
+  2: crosswalk
