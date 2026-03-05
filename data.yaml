@@ -1,8 +1,6 @@
-path: /Users/jo-eunjin/Downloads/SISO/merged_dataset2
-
-train: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/train
-val: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/val
-test: /Users/jo-eunjin/Downloads/SISO/merged_dataset2/images/test
+train: /home/j34232766/me/merged_dataset3/images/train
+val: /home/j34232766/me/merged_dataset3/images/val
+test: /home/j34232766/me/merged_dataset3/images/test
 
 nc: 3
 names:
